@@ -1,0 +1,6 @@
+x = (5, 10, 15, 100)
+y = reversed(x)
+print(tuple(y))
+x = ("Hello world")
+y = reversed(x)
+print(tuple(y))
